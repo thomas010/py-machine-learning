@@ -1,0 +1,1 @@
+Python implementation of Machine Learning regression algorithms. Implementation of algorithms like Linear Regression, Logistic Regression, Neural Networks and other.
